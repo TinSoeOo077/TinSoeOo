@@ -1,13 +1,13 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.1",
+"Version":"1.2",
 //link for server update
 "Url":"https://github.com/TinSoeOo077/TinSoeOo/blob/main/AhpaimVpn.zip?raw=true" ,
 "Changelog":"
-နောက်ဆုံးအပ်ဒိတ်တင်နေ့ 04/1/2023
+နောက်ဆုံးအပ်ဒိတ်တင်နေ့ 12/1/2023
 မင်္ဂလာပါ
 TRUE
-DTAC အတွက်5ဖိုင်ထည့်ပေးထားတယ်
+DTAC အတွက်7ဖိုင်ထည့်ပေးထားတယ်
 ချက်စက်မပြတ်အောင်အပ်ဒိတ်လုပ်ပေးသွာမယ်
 ",
  

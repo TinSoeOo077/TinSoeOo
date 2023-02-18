@@ -1,25 +1,59 @@
 {
-// version for updating, if there is an update, need to change more numbers than before
-"Version":"1.1",
-//link for server update
-"Url":"https://github.com/TinSoeOo077/TinSoeOo/blob/main/TinSoeOo.zip?raw=truep?raw=true" ,
-"Changelog":"
-နောက်ဆုံးအပ်ဒိတ်တင်နေ့ 20/1/2023
-TRUE
-DTAC
-နှစ်မျိုးချိတ်တယ်
-",
- 
- 
- 
- 
- 
- 
-// don't mess with the bottom
-"latestVersion": "1.0.0",
-"latestVersionCode": "1",
-"url": "",
- "releaseNotes": [
- "-Demo"
-  ]
+   "files": [    
+
+
+{
+         "name": "TH-VIP-DTAC",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B81.ovpn"
+      }
+,
+
+{
+         "name": "TH-VIP-DTAC-GAMES01",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B82.ovpn"
+      }
+,
+
+{
+         "name": "TH-VIP-DTAC-GAMES02",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B83.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-DTAC03",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B84.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-DTAC04",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B85.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-DTAC-GAMES05",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B86.ovpn"
+      }   
+,
+{
+         "name": "TH-VIP-True-GAMES01",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B87.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-True-GAMES02",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B88.ovpn"
+      }
+,
+      
+   ],
+"message":"
+မြန်မာပြည်သာအလုံးကြိုဆိုပါ၏
+TinSoeOoဝန်ဆောင်မှု
+အသုံးပြုရနိုင်သော ဆင်းကဒ်များ
+ထူးမူ …ဒီတက် များဖြစ်ပါတယ်
+📤ဖိုင်တင်ရက် 17/02/2023
+APKဗားရှင်း-1
+\n\nFb: Kaung mya thuthu",
+"title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
+   "version":11
 }

@@ -1,16 +1,76 @@
+{
+   "files": [    
 
 
 {
-   "files": [  
-
+         "name": "TH-TRUR-DTAC-01",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B81.ovpn"
+      }
+,
 
 {
-         "name": "01. 🇸🇬Singapore (Dtac & True)Free",
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/SG-TRUE-DTAC-01.ovpn"
-      },
+         "name": "TH-TRUR-DTAC-02",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B82.ovpn"
+      }
+,
 
+{
+         "name": "TH-TRUR-DTAC-03",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B83.ovpn"
+      }
+,
+{
+         "name": "TH-TRUR-DTAC-04",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B84.ovpn"
+      }
+,
+{
+         "name": "TH-TRUR-DTAC-05",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B85.ovpn"
+      }
+,
+{
+         "name": "TH-TRUR-DTAC-06",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B86.ovpn"
+      }   
+,
+{
+         "name": "TH-TRUR-DTAC-07",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B87.ovpn"
+      }
+,
+{
+         "name": "TH-TRUR-DTAC-08",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B88.ovpn"
+      }
+,
+{
+         "name": "TH-TRUR-DTAC-09",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B89.ovpn"
+      }   
+,
+{
+         "name": "TH-TRUR-DTAC-10",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B810.ovpn"
+      }
+,      
+{
+         "name": "TH-TRUR-DTAC-11",
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B811.ovpn"
+      }   
+      
    ],
-"message":"🚀 Update version - 26 \n• 🇸🇬Singapore-4(free)\n• 🇹🇭Thailand-2(🎮) \n•Thank for using our app🙆 ",
-   "title":"Do you want to update?",
-   "version": 11
+"message":"
+ ─┅═ই۝ြမန်မာပြည့်သာအလုံးကြိုဆိုပါ၏۝ই═┅─
+ ─┅═ই۝PAM VPN APK۝ই═┅─
+ ─┅═ই۝အသုံးပြုရနိုင်သော ဆင်းကဒ်များ۝ই═┅─
+ ─┅═ই۝ထူးမူ …ဒီတက် များဖြစ်ပါတယ်۝ই═┅─
+ ─┅═ই۝DTAC NOPRO۝ই═┅─
+ ─┅═ই۝TRUE NOPRO۝ই═┅─
+ ─┅═ই۝ကြိုက်ရာသုံးအကန့်အသတ်မရှိ۝ই═┅─
+ ─┅═ই۝ဖိုင်တင်ရက် 17/02/2023۝ই═┅─
+ ─┅═ই۝APKဗားရှင်း-1۝ই═┅─
+\n\nFb:  ─┅═ই۝Tin Soe Oo۝ই═┅─",
+"title":" ─┅═ই۝ဖိုင်အသစ်အပ်ဒိတ်ပါ۝ই═┅─" ,
+   "version":1
 }

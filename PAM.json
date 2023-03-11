@@ -5,53 +5,53 @@
 
 
 {
-         "name": "SG-DTAC-TRUE01",
+         "name": "SG-TRUE01",
          "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/SG-TRUE-DTAC-03.ovpn"
       }
 ,
 
 {
-         "name": "SG-DTAC-TRUE02",
+         "name": "SG-TRUE02",
          "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/SG-TRUE-DTAC02.ovpn"
       }
 ,
 {
-         "name": "TH-VIP-TRUE-DTAC03",
+         "name": "SG-TRUE03",
          "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC-04.ovpn"
       }
 ,
 {
-         "name": "TH-VIP-DTAC-TRUE04",
+         "name": "SG-TRUE04",
          "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC-04.ovpn"
       }
 ,
 {
-         "name": "TH-VIP-DTAC-TRUE05",
+         "name": "SG-TRUE05",
          "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/SG-TRUE-DTAC-03.ovpn"
       }   
 ,
 {
-         "name": "TH-VIP-DTAC-TRUE06",
+         "name": "TH-DTAC-01",
          "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/SG-TRUE-DTAC-03.ovpn"
       }
 ,
 {
-         "name": "TH-VIP-DTAC-TRUE07",
+         "name": "TH-DTAC-02",
          "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC-04.ovpn"
       }
 ,
 {
-         "name": "TH-VIP-DTAC-TRUE08",
+         "name": "TH-DTAC-03",
          "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/SG-TRUE-DTAC02.ovpn"
       }   
 ,
 {
-         "name": "TH-VIP-DTAC-TRUE09",
+         "name": "TH-DTAC-04",
          "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC-04.ovpn"
       }
 ,      
 {
-         "name": "TH-VIP-DTAC-TRUE10",
+         "name": "TH-DTAC-05",
          "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/SG-TRUE-DTAC-03.ovpn"
       }   
       
@@ -68,8 +68,8 @@ VIP Game+Online
 VIP တစ်လမှ၅၀ဘတ်>>
 ကြိုက်ရာသုံးအကန့်အသတ်မရှိ
 ဖိုင်တင်ရက် 01/03/2023
-APKဗားရှင်း-3
+APKဗားရှင်း-4
 \n\nFb: Tin Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":13
+   "version":14
 }

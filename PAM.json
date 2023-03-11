@@ -2,20 +2,16 @@
    "files": [    
 
 
-{
-         "name": "TH-VIP-FREE",
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-123.ovpn"
-      }
-,
+
 
 {
-         "name": "TH-VIP-DTAC-TRUE01",
+         "name": "SG-DTAC-TRUE01",
          "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/SG-TRUE-DTAC-03.ovpn"
       }
 ,
 
 {
-         "name": "TH-VIP-DTAC-TRUE02",
+         "name": "SG-DTAC-TRUE02",
          "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/SG-TRUE-DTAC02.ovpn"
       }
 ,
@@ -75,5 +71,5 @@ VIP တစ်လမှ၅၀ဘတ်>>
 APKဗားရှင်း-1
 \n\nFb: Tin Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":1
+   "version":12
 }

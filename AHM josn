@@ -1,38 +1,61 @@
 {
+
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.3",
+
+"Version":"1.1",
+
 //link for server update
-"Url":"https://github.com/TinSoeOo077/TinSoeOo/blob/main/Kozaw.zip" ,
+
+"Url":"https://github.com/TinSoeOo077/TinSoeOo/raw/main/Kozaw.zip" ,
+
 "Changelog":"
+
 မဂင်္လာပါဗျာကျွန်တော်APKသုံးနေသူများအပ်ဒိတ်လုပ်ပေကျပါဖိုင်အသစ်ထည့်ပေထားတယ်
+
 အပ်ဒိတ်တင်နေ့ 13/05/2023
+
 TRUE No Pro 5ဖိုင်
-DTAC No Pro 5ဖိုင်ထည့်ပေးထားတယ်
-၇ ရက်တစ်ခါUpdate ဖိုင်လုပ်ပြီးတင်ပေးမည်
+
+DTAC No Pro 5ဖိုင်
+
+ထည့်ပေးထားပါတယ်
+
+၇ ရက်တစ်ခါUpdateဖိုင်ပြီးတင်ပေးမည်
+
 ကျနော်APKသုံးနေတဲ့သူငယ်ချင်များ
 
 2023မှာ အလုပ်အကိုင်ဆင်ပြေကြပါစေ့
 
 ဖိုင်မချိတ်တဲနေ့အပ်ဒိတ်ပြန်လုပ်ပေးမယ်
 
-
-
-
-
-
+🥰🥰🥰
 
 ",
+
  
+
  
+
  
+
  
+
  
+
  
+
 // don't mess with the bottom
+
 "latestVersion": "1.0.0",
+
 "latestVersionCode": "1",
+
 "url": "",
+
  "releaseNotes": [
+
  "-Demo"
+
   ]
+
 }

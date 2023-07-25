@@ -1,1 +1,32 @@
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.4",
+//link for server update
+"Url":"https://github.com/TinSoeOo077/TinSoeOo/raw/main/zaw.zip" ,
+"Changelog":"
+အာလုံးမဂင်္လာပါဗျာ
+VIPတစ်လ50ဘတ်ဝယ်ထားတော့မိတ်ဆွေများအာလုံးအပ်ဒိတ်တင်ပေးပါ
+အပ်ဒိတ်သင်ပြီးဆိုရင်ပေးထားတော့
+နာမည်နဲ စကာဝှက်းပုံမှန်အတိုင်းချိတ်ဆက်အသုံးပြုပါနားမလည်တာရှိရင်
+Cbမှာလာ‌ေမးနိုင်ပါတယ်
+
+UPDATE လုပ်ရန်(အင်တာနက်)သို့မဟုပ်(ဝိုင်ဖိုင်)ရှိရမည်
+
+VIP File တစ်လ၅၀ဘတ်၀ယ်ယူအားပေးလိုရပါပြီတစ်ယောက်သုံးသီးသန့်ပါ
+
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
 

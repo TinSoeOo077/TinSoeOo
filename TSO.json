@@ -16,9 +16,14 @@
 ,
 {
          "name": "SG-VIP-TRUE-01",
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH_TRUE-02.ovpn"
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/SG_TRUE-01.ovpn"
       }
-      
+
+,
+{
+         "name": "SG-VIP-DTAC-01",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/SG_DTAC-01.ovpn"
+}
      
    ],
 "message":"
@@ -36,7 +41,8 @@ VIP ဝယ်သုံးချင်တယ်ငွေလွှဲပေးဖ�
 Vipဝယ်ယူလို့ရတယ်
 Vip တလ ၅၀ဘက်လာရောက် ဝယ်ယူ
 စမ်းသုံးကြည့်ပါလို့အကြံပေးချင်ပါတယ်
+   အပ်ဒတ်သင်နေ 30/07/23
 \n\nFb: TinSoeOo",
-"title":"ဖိုင်အသစ်အပ်ဒိတ်ဗာရှင်း 3" ,
-   "version":13
+"title":"ဖိုင်အသစ်အပ်ဒိတ်ဗာရှင်း 4" ,
+   "version":14
 }

@@ -6,15 +6,31 @@
 
 {
          "name": "TRUE-DTAC-TH-01",
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-02.ovpn"
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH01.ovpn"
       }
       ,
 {
-         "name": "TRUE-DTAC-SG-01",
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE.ovpn"
+         "name": "TRUE-DTAC-SG-02",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH02.ovpn"
       }
 
-     
+            ,
+{
+         "name": "TRUE-DTAC-SG-03",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH03.ovpn"
+      }
+
+                  ,
+{
+         "name": "TRUE-DTAC-SG-03",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH03.ovpn"
+      }
+
+                  ,
+{
+         "name": "TRUE-DTAC-SG-03",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH03.ovpn"
+      }
    ],
 "message":"
 မြန်မာပြည့်သာအာလုံးကြိုဆိုပါ၏
@@ -29,6 +45,6 @@
    📤ဖိုင်တင်ရက် 15/10/2023
    APKဗားရှင်း-1
 \n\nFb: TinSoeOo",
-"title":"ဖိုင်အသစ်အပ်ဒိတ်ပါဗာရှင်း 6" ,
-   "version":6
+"title":"ဖိုင်အသစ်အပ်ဒိတ်ပါဗာရှင်း 1" ,
+   "version":1
 }
